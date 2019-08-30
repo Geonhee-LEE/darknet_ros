@@ -10,13 +10,19 @@ The YOLO packages have been tested under ROS Kinetic and Ubuntu 16.04. This is r
 
 **Affiliation: Robotic Systems Lab, ETH Zurich**
 
-![Darknet Ros example: Detection image](darknet_ros/doc/test_detection.png)
+
+## Launch YOLO v3 with camera
+
+    roslaunch darknet_ros darknet_ros.launch 
+
 
 ## Citing
 
 The YOLO methods used in this software are described in the paper: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640).
 
 ## Installation
+
+
 
 ### Dependencies
 
