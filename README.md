@@ -18,7 +18,7 @@ The YOLO packages have been tested under ROS Kinetic and Ubuntu 16.04. This is r
 ## Launch YOLO v3 with camera
 
     roslaunch usb_cam usb_cam-test.launch 
-    roslaunch darknet_ros darknet_ros.launch 
+    roslaunch darknet_ros yolo_v3.launch
 
 
 ## Citing
