@@ -11,8 +11,13 @@ The YOLO packages have been tested under ROS Kinetic and Ubuntu 16.04. This is r
 **Affiliation: Robotic Systems Lab, ETH Zurich**
 
 
+
+## Requirements
+    sudo apt-get install ros-kinetic-usb-cam
+
 ## Launch YOLO v3 with camera
 
+    roslaunch usb_cam usb_cam-test.launch 
     roslaunch darknet_ros darknet_ros.launch 
 
 
