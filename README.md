@@ -21,7 +21,8 @@ The YOLO packages have been tested under ROS Kinetic and Ubuntu 16.04. This is r
     roslaunch darknet_ros yolo_v3.launch
 
 ## Result 
-    https://youtu.be/WqxjrnE-yrQ
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/WqxjrnE-yrQ)
+    
 
 ## Citing
 
